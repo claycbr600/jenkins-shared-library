@@ -1,0 +1,5 @@
+# mavent target
+/target/
+
+# macOS files
+.DS_Store
